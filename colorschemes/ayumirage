@@ -1,0 +1,9 @@
+[Scheme]
+Name=AyuMirage
+ColorForeground=#c9c7bf #letters color
+ColorBackground=#101319
+ColorCursor=#c5a462
+ColorBold=#c5a462
+ColorBoldUseDefault=FALSE
+ColorPalette=#1f2430;#dc322f;#F2AE49;#ffcc66;#5296B9;#d33682;#2aa198;#eee8d5;#6b7a8b;#cb4b16;#586e75;#657b83;#87d96c;#DCA02B;#93a1a1;#fdf6e3
+TabActivityColor=#dc322f
